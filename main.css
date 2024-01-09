@@ -1,0 +1,12 @@
+p {
+    color:red;
+}
+/* *{
+    font-size:30px;
+} */
+:root{
+        --text-color: blue;
+}
+h1{
+    color: var(--text-color);
+}

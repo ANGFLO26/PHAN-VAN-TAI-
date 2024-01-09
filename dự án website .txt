@@ -1,0 +1,3 @@
+dự án website gồm hai phần trang admin và trang quản trị   
+font-end giao diện ở dạng tĩnh  
+back-end giao diện ở dạng động, lấy dữ liệu 
